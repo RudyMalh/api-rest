@@ -1,3 +1,6 @@
-index:
-    path: /
-    controller: App\Controller\DefaultController::myAction
+#index:
+    #path: /
+    #controller: App\Controller\DefaultController::myAction
+controllers:
+    resource: '../src/Controller/'
+    type:     annotation
