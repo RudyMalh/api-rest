@@ -39,10 +39,10 @@ Headers :
     value : application/json
     
 Body :
-    > {
-	  >     "title" : "Titre de mon contenu",
-  	>     "content" : "Contenu de mon article"
-    > }
+> {
+>     "title" : "Titre de mon contenu",
+>     "content" : "Contenu de mon article"
+> }
 
 #### Show an article 
 
